@@ -25,7 +25,7 @@ A simple and attractive counter application built using HTML, CSS, and JavaScrip
 
 ## Live Demo
 
-https://username6785.github.io/Head-Counter-App/
+
 
 
 ## Author
